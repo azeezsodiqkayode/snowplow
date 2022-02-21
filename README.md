@@ -11,7 +11,7 @@ click here for solution https://github.com/azeezsodiqkayode/snowplow/tree/main/j
 
 
 
-Web technologies (HTML & Javascript):
+<!-- Web technologies (HTML & Javascript):
 <html>
 <head>
     <title>Snowplow</title>
@@ -19,7 +19,7 @@ Web technologies (HTML & Javascript):
 <body>
     <button>Click me</button>
 </body>
-</html>
+</html> -->
 • Insert the AlertifyJS library; it is used to generate dialogs and can be found at http://cdn.jsdelivr.net/npm/alertifyjs@1.11.0/build/alertify.min.js
 • Insert CSS file hosted at http://cdn.jsdelivr.net/npm/alertifyjs@1.11.0/build/css/ alertify.min.css
 • The AlertifyJS library defines a simple method, alertify.alert(message) where the message is a string representing the message displayed by the alert box. Add Javascript code to pop up an AlertifyJS’s alert box with the message “Well done!” on the button click.
